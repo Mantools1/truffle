@@ -24,6 +24,6 @@
   "dependencies": {
     "@truffle/spinners": "^0.2.0",
     "emittery": "^0.4.1",
-    "web3-utils": "1.5.3"
+    "web3-utils": "1.7.4"
   }
 }
